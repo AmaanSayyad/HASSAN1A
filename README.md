@@ -94,7 +94,7 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 
 What I ❤️ :
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="300" />
 
 <br/>
 <br/>
