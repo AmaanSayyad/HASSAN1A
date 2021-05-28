@@ -194,10 +194,10 @@ Buy me a 🍺 </a>
 
 <div class="footer-copyright text-center py-3" align="center">
       <p style="color: white">
-        © 2021 Inventory Management System. All Rights Reserved<br />
+        © 2021
         Powered by
         <a href="https://hassan1a.github.io/HassanJuma/" target="_blank"
-          >Juma</a
+          >Hassan Juma</a
         >
       </p>
     </div>
