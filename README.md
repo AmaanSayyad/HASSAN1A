@@ -3,11 +3,9 @@
 <div align="center">
 
 ![Hello](Hello.gif)
-HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
+# HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-### A Student, Developer & Writer
-
-Open Source Contributor from <b>Kenya<b> 💚
+### A Student, Developer & Write 💚
 
 I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning, Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
 
@@ -153,9 +151,6 @@ What I ❤️ :
 </table>
 
 </div>
-### ✨ Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)
 
 ### ✨ Blogs & Videos
 
