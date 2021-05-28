@@ -56,7 +56,7 @@ I'm an engineering student and a to-be developer 👨‍💻  who is passionate 
 <a href="https://stackoverflow.com/users/14121794/hassan-juma">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a> 
-<h1><p align="center"></p>And follow</h1>
+<p align="center"> And follow</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
 
