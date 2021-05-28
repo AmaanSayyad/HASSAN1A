@@ -118,7 +118,7 @@ What I ❤️ :
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> </a></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a>
 
-### ✍
+
 
 </p></br>
 
@@ -132,12 +132,7 @@ What I ❤️ :
 <a href="https://github.com/iampawan">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
 </a>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### Spotify Playing 🎧
 
@@ -149,29 +144,9 @@ What I ❤️ :
 
 #### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
-- [CovidOff | Covid19 Lead Generation Platform](https://blogs.manishbarnwal.tech/covidoff)
-- [My Experience In MLH Local Hack Day: Build | Tech-Bubble](https://dev.to/HASSAN1A/my-experience-in-mlh-local-hack-day-build-tech-bubble-39al)
-- [My Experience in the Hacker Community | MLH LHD: Build](https://blogs.HASSAN1A.tech/experience-in-hacker-community)
-- [Microsoft Learn Student Ambassador, SELECTED](https://blogs.HASSAN1A.tech/microsoft-learn-student-ambassador)
-<!-- BLOG-POST-LIST:END -->
-
 ➡️
 
 #### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [Workshop on Microsoft Azure Fundamentals | MLSA | Manish Kumar Barnwal](https://www.youtube.com/watch?v=y5f4pf1t8sY)
-- [Microsoft Learn Student Ambassador Swag Kit Unboxing!! | MLSA Beta 🔥🔥](https://www.youtube.com/watch?v=b0UjXY1Lbko)
-- [Microsoft Learn Student Ambassador Application [SELECTED]](https://www.youtube.com/watch?v=os6GucVenSY)
-- [Unboxing Environment Friendly Swags!!! By FACEBOOK #BuildwithFacebook](https://www.youtube.com/watch?v=mkMOgsdpYM0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCfpqdFu1khxUN54jiwdF3zQ)
-
----
 
 </details>
 
