@@ -5,33 +5,32 @@
 ![Hello](Hello.gif)
 HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-<h1><p align="center">Let's connect!</p></h1>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
-
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
-### A Student, Developer & Writer
-
 Open Source Contributor from <b>Kenya<b> 💚
 
-## Hey, I'm 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
+I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
+
+### A Student, Developer & Writer
 
 Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
 <br/>
 <br/>
-Ask me anything about...
 
-<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
+<!-- Ask me anything about...
+
+<img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=m-HASSAN1A.HASSAN1A)
+<a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HASSAN1A)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
 
 <img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" />
 
-![](https://komarev.com/ghpvc/?username=imanishbarnwal&style=plastic)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HASSAN1A)
+<br/>
+<br/>
+<br/>
+<h1><p align="center">Let's connect!</p></h1>
 
 <a href="https://twitter.com/okothhassanjuma">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -55,7 +54,11 @@ Ask me anything about...
 
 <a href="https://stackoverflow.com/users/14121794/hassan-juma">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+</a> 
+<h1><p align="center"></p>And follow</h1>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
+
 </div>
 <h3 align="center">📌 Looking for a new challenge </h3>
 
@@ -117,15 +120,16 @@ Ask me anything about...
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> </a></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a>
 
-### ✍ 
+### ✍
+
 </p></br>
 
- 
 </h4>
 
 Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
 - [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
 - [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
