@@ -196,7 +196,7 @@ Buy me a 🍺 </a>
       <p style="color: white">
         © 2021
                 <a href="https://hassan1a.github.io/HassanJuma/" target="_blank"
-          >Hassan Juma</a
+          >Hassan Juma&#8482;</a
         >
       </p>
     </div>
