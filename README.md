@@ -76,18 +76,16 @@ Android developer from Lahore, Pakistan. I love building applications & discussi
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
-
-#### Talking about my personal stuff:
-
 - 👉
 - 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
-- ✍ Technical writer at Medium
+- ✍ Technical writer at Upwork
 - 📱 Live apps on Heroku [20][python]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 PS 5 Player
 - 📄 [Portfolio][profile]
 
-<h4> What I ❤️ :
+
+ What I ❤️ :
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
