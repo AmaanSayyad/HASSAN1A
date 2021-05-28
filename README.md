@@ -75,15 +75,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🎮 PS 5 Player
 - 📄 [Portfolio][profile]
 
-Talking about my personal stuff:
-🙋‍♂️ Active DSC Lead at Moringa School
-👉 Leading Flutter | Python | Kotlin | Java |PHP | JS
-💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
-✍ Technical writer at Medium
-📱 Live apps on Heroku [20][python]
-✨ I'm learning Flutter, Web scrapping, Automations etc.
-🎮 PS 5 Player
-📄 Portfolio
+
 
 <h4> What I ❤️ :
 
@@ -103,7 +95,7 @@ Open Source Contributor from <b>Kenya<b> 💚
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Shoaib Khalid!](https://dev.to/shoaibkakal) 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
+## Hey, I'm 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
 
 Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
 <br/>
