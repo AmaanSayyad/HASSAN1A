@@ -54,7 +54,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🔭 I have just finished working on 🎬 [HiThere!](http://www.hithere.fun/)
 - 🌱 I’m currently learning Kotlin,Flutter and Android
 - 👯 I’m looking to collaborate on Mobile Project
-- 🤔 I’m looking for help with my open source projectsS
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
@@ -80,19 +79,6 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 ### A Student, Developer & Writer
 
 Open Source Contributor from <b>Kenya<b> 💚
-
-![](https://visitor-badge.glitch.me/badge?page_id=m-HASSAN1A.HASSAN1A)
-
-[quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: http://m-hamzashakeel.github.io
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibkakal)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-
 ## Hey, I'm 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
 
 Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
@@ -102,6 +88,16 @@ Ask me anything about...
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=m-HASSAN1A.HASSAN1A)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibkakal)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
+
 <br/>
 <br/>
 <br/>
@@ -110,7 +106,7 @@ Ask me anything about...
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 
 ### Languages & Tools
 
