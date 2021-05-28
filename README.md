@@ -120,9 +120,11 @@ What I ❤️ :
 <div></div>
 <div>
 
-<summary>📝 My GitHub Stats</summary>
 
 <br>
+
+<summary>📝 My GitHub Stats</summary>
+
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
