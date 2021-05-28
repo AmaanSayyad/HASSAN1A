@@ -101,6 +101,9 @@ What I ❤️ :
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HASSAN1A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
+
+[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats)
+
 <br/>
 <br/>
 
@@ -141,7 +144,7 @@ What I ❤️ :
  </tr>
  <tr>
     <td><a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
 </a></td>
     <td> ✨ Spotify Playing 🎧
 
@@ -149,8 +152,6 @@ What I ❤️ :
 
  </tr>
 </table>
-
-[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats)
 
 </div>
 ### ✨ Spotify Playing 🎧
