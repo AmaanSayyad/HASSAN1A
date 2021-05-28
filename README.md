@@ -5,9 +5,9 @@
 ![Hello](Hello.gif)
 # HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-### A Student, Developer & Write 💚
+### A Software engineer, Developer & designer 💚
 
-I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning, Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
+I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning,AI, ,Design,Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
 
 <br/>
 <br/>
