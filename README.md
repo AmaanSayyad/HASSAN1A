@@ -61,27 +61,34 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 </div>
 <h3 align="center">📌 Looking for a new challenge </h3>
 
-- 🔭 I’m actively coding ALX
-- 🌱 I’m currently learning Android Development ;Kotlin,Flutter
-- 💬 Ask me about: tech, memes, webseries
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with new project ideas
-- 📫 How to reach me: Links are given above 🔝
-- 😄 Pronouns: he/him
-- 🤪 Fun fact: I love to travel and meet new people.
+<div>
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
+
+- 📫 How to reach me: Links are given above 🔝
 - 🔭 I have finished a BOOTCAMP with Moringa
 - 👯 I’m looking to collaborate on Projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
-- 📫 How to reach me
-- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
-- 👉
-- 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
+
+- 🤪 Fun fact: I love to travel and meet new people.
+- 👉</td>
+    <td>- 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
 - ✍ Technical writer at Upwork
 - 📱 Live apps on Heroku [20][python]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 PS 5 Player
-- 📄 [Portfolio][profile]
+- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
+</td>
+ </tr>
+</table>
+
+</div>
 <div>
 
 What I ❤️ :
