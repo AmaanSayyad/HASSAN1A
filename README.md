@@ -5,13 +5,11 @@
 ![Hello](Hello.gif)
 HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-
 ### A Student, Developer & Writer
+
 Open Source Contributor from <b>Kenya<b> 💚
 
-I'm an engineering student and a to-be developer 👨‍💻  who is passionate about Machine Learning, Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
-
-
+I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning, Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
 
 <br/>
 <br/>
@@ -84,6 +82,7 @@ I'm an engineering student and a to-be developer 👨‍💻  who is passionate 
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 PS 5 Player
 - 📄 [Portfolio][profile]
+<div>
 
 What I ❤️ :
 
@@ -118,9 +117,8 @@ What I ❤️ :
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> </a></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a>
 
-
-
 </p></br>
+</div>
 <div></div>
 <div>
 
