@@ -72,13 +72,12 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 🎮 PS 5 Player
 - 📄 [Portfolio][profile]
 
-
-
 <h4> What I ❤️ :
 
 ### A Student, Developer & Writer
 
 Open Source Contributor from <b>Kenya<b> 💚
+
 ## Hey, I'm 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
 
 Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
@@ -88,15 +87,12 @@ Ask me anything about...
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=m-HASSAN1A.HASSAN1A)
 
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibkakal)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HASSAN1A)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-
 
 <br/>
 <br/>
@@ -105,8 +101,6 @@ Ask me anything about...
 
 <br/>
 <br/>
-
-
 
 ### Languages & Tools
 
