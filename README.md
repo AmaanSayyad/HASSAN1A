@@ -120,17 +120,15 @@ What I ❤️ :
 <div></div>
 <div>
 
-
 <br>
-
-<summary>📝 My GitHub Stats</summary>
-
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 
 <br/>
 <br/>
 <br/>
+
+<summary align="center">📝 My GitHub Stats</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HASSAN1A&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 <!-- [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats) -->
