@@ -129,7 +129,7 @@ What I ❤️ :
 <br/>
 
 <summary align="center">📝 My GitHub Stats</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HASSAN1A&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HASSAN1A&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100%" height="400"/>
 
 <!-- [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats) -->
 
