@@ -84,8 +84,7 @@ Android developer from Lahore, Pakistan. I love building applications & discussi
 - 🎮 PS 5 Player
 - 📄 [Portfolio][profile]
 
-
- What I ❤️ :
+What I ❤️ :
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
@@ -123,15 +122,6 @@ Android developer from Lahore, Pakistan. I love building applications & discussi
 </p></br>
 
 </h4>
-
-Medium Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
-<!-- BLOG-POST-LIST:END -->
 
 <summary>📝 My GitHub Stats</summary>
 <br>
