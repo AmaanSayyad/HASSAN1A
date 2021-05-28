@@ -3,11 +3,12 @@
 <div align="center">
 
 ![Hello](Hello.gif)
+
 # HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
 ### A Software engineer, Developer & Graghic designer 💚
 
-I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning,AI, ,Design,Python Development and opensource. Full Stack  developer from Nairobi, Kenya. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer, and internet surfer 🏄‍♂️.
+I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning,AI, ,Design,Python Development and opensource. Full Stack developer from Nairobi, Kenya. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer, and internet surfer 🏄‍♂️.
 
 <br/>
 <br/>
@@ -185,17 +186,10 @@ What I ❤️ :
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/i) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<!--
-**imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Support
 
-Here are some ideas to get you started:
+<a href="https://www.paypal.me/hassanj">
+  <img width="40" hspace="0" alt="paypal.me/camshassan" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
+Buy me a 🍺 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
