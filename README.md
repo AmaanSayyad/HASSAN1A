@@ -131,13 +131,27 @@ What I ❤️ :
 <div>
 
 <summary>📝 My GitHub Stats</summary>
+
 <br>
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td><a href="https://github.com/iampawan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
+</a></td>
+    <td>### ✨ Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)</td>
+ </tr>
+</table>
 
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats)
 
-<a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
-</a>
+
 
 </div>
 ### ✨ Spotify Playing 🎧
