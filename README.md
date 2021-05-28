@@ -42,8 +42,8 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 </div>
 <h3 align="center">📌 Looking for a new challenge </h3>
 
-- 🔭 I’m currently working on AR/VR Projects
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m actively coding ALX
+- 🌱 I’m currently learning Android Development ;Kotlin,Flutter
 - 💬 Ask me about: tech, memes, webseries
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 I’m looking to collaborate with new project ideas
@@ -51,15 +51,11 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 😄 Pronouns: he/him
 - 🤪 Fun fact: I love to travel and meet new people.
 
-- 🔭 I have just finished working on 🎬 [HiThere!](http://www.hithere.fun/)
-- 🌱 I’m currently learning Kotlin,Flutter and Android
-- 👯 I’m looking to collaborate on Mobile Project
+- 🔭 I have  finished  a BOOTCAMP with Moringa
+- 👯 I’m looking to collaborate on  Projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
-- 💻 I’m currently learning **JavaScript** and **React**
-- 👯 I’m looking to collaborate on fun front-end/UI projects using **HTML**, **CSS** and **Bootstrap 4.0**
-- 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **Ruby** and **Ruby on Rails**
 
 #### Talking about my personal stuff:
 
