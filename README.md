@@ -65,8 +65,8 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px"></b></td>
+    <td><b style="font-size:30px"></b></td>
  </tr>
  <tr>
     <td>
@@ -75,12 +75,13 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 - 🔭 I have finished a BOOTCAMP with Moringa
 - 👯 I’m looking to collaborate on Projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
+- 📱 Live apps on Heroku [20][python]
 
 - 🤪 Fun fact: I love to travel and meet new people.
 - 👉</td>
     <td>- 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
 - ✍ Technical writer at Upwork
-- 📱 Live apps on Heroku [20][python]
+
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 PS 5 Player
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
