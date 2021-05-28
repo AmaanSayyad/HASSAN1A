@@ -126,10 +126,9 @@ Ask me anything about...
 Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [learn Dart before Flutter?](https://itnext.io/should-i-learn-da-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/intelog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-rlio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
+- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
+- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
+- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <summary>📝 My GitHub Stats</summary>
