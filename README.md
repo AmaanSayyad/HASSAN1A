@@ -121,8 +121,8 @@ What I ❤️ :
 
 
 </p></br>
-
-</h4>
+<div></div>
+<div>
 
 <summary>📝 My GitHub Stats</summary>
 <br>
@@ -133,7 +133,7 @@ What I ❤️ :
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-
+</div>
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)
