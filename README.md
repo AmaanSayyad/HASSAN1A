@@ -146,17 +146,16 @@ What I ❤️ :
     <td>### ✨ Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)</td>
+
  </tr>
 </table>
 
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats)
 
-
-
 </div>
 ### ✨ Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)
 
 ### ✨ Blogs & Videos
 
