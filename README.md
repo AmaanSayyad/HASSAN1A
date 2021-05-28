@@ -20,9 +20,9 @@ I'm an engineering student and a to-be developer 👨‍💻  who is passionate 
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=m-HASSAN1A.HASSAN1A)
-<a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
+<!-- <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a> -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=HASSAN1A.HASSAN1A)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HASSAN1A)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
 
