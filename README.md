@@ -192,4 +192,12 @@ What I ❤️ doing:
   <img width="40" hspace="0" alt="paypal.me/camshassan" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
 Buy me a 🍺 </a>
 
-
+<div class="footer-copyright text-center py-3" align="center">
+      <p style="color: white">
+        © 2021 Inventory Management System. All Rights Reserved<br />
+        Powered by
+        <a href="https://hassan1a.github.io/HassanJuma/" target="_blank"
+          >Juma</a
+        >
+      </p>
+    </div>
