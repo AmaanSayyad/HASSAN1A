@@ -51,16 +51,15 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 😄 Pronouns: he/him
 - 🤪 Fun fact: I love to travel and meet new people.
 
-- 🔭 I have  finished  a BOOTCAMP with Moringa
-- 👯 I’m looking to collaborate on  Projects
+- 🔭 I have finished a BOOTCAMP with Moringa
+- 👯 I’m looking to collaborate on Projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active DSC Lead at [Moringa School][dsccui]
-- 👉 Leading [Flutter | Python | Kotlin | Java |PHP | JS][flutter_isb]
+- 👉
 - 💻 The tech I'm interested in Web development, Kotlin, Flutter,AI and ML
 - ✍ Technical writer at Medium
 - 📱 Live apps on Heroku [20][python]
