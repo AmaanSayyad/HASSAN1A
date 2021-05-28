@@ -49,12 +49,10 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
-- ⚡ Languages: Python3, C, C++
 - 🤪 Fun fact: I love to travel and meet new people.
 
 - 🔭 I have just finished working on 🎬 [HiThere!](http://www.hithere.fun/)
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin,Flutter and Android
 - 👯 I’m looking to collaborate on Mobile Project
 - 🤔 I’m looking for help with my open source projectsS
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
