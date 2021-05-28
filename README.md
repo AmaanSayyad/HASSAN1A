@@ -91,7 +91,7 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 </div>
 <div>
 
-What I ❤️ :
+What I ❤️ doing:
 
 ### Languages & Tools
 
@@ -183,7 +183,7 @@ What I ❤️ :
 
 ##
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/i) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/hassan-juma-b0a530101/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ## Support
