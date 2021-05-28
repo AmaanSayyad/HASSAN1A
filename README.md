@@ -93,6 +93,7 @@ I'm an engineering student and a to-be developer 👨‍💻 who is passionate a
 <div>
 
 What I ❤️ :
+
 ### Languages & Tools
 
 <p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -123,20 +124,17 @@ What I ❤️ :
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="300" />
 
 <br/>
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HASSAN1A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
-
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HASSAN1A&theme=gotham)](https://github.com/HASSAN1A/github-readme-stats)
 
 <br/>
 <br/>
-
-
 
 <table border="0">
  <tr>
