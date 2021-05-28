@@ -5,13 +5,14 @@
 ![Hello](Hello.gif)
 HASSAN JUMA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
 
-Open Source Contributor from <b>Kenya<b> 💚
-
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
 
 ### A Student, Developer & Writer
+Open Source Contributor from <b>Kenya<b> 💚
 
-Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
+I'm an engineering student and a to-be developer 👨‍💻  who is passionate about Machine Learning, Python Development and opensource. Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️.
+
+
+
 <br/>
 <br/>
 
