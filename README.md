@@ -8,7 +8,7 @@
 
 ### A Software engineer, Developer & Graghic designer 💚
 
-I'm an engineering student and a to-be developer 👨‍💻 who is passionate about Machine Learning,AI, ,Design,Python Development and opensource. Full Stack developer from Nairobi, Kenya. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer, and internet surfer 🏄‍♂️.
+I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,Design,Python Development and opensource. I love building applications & discussing new product ideas.I'm also a self procliamed digital marketer, and internet surfer 🏄‍♂️.
 
 <br/>
 <br/>
