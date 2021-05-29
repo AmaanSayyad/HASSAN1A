@@ -135,7 +135,7 @@ What I ❤️ doing:
 <br/>
 <br/>
 
-<table border="0"" width="100%" height="400">
+<table border="0"" width="100%" height="100%">
  <tr>
     <td><b style="font-size:30px">Language stats</b></td>
     <td><b style="font-size:30px">Inspiration</b></td>
