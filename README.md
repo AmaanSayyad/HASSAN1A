@@ -23,7 +23,7 @@ I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HASSAN1A)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HASSAN1A)
 
-<img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" />
+<img align="right" height="300" width="425" alt="" src="coder.gif" />
 
 <br/>
 <br/>
@@ -121,7 +121,7 @@ What I ❤️ doing:
 
 <br>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
+<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
 
 <br/>
 <br/>
