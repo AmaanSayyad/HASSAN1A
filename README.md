@@ -62,7 +62,7 @@ I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,
 
 <div>
 
-<table border="0" width="100%" height="100">
+<table border="0" width="100%" height="100%">
  <tr>
     <td><b style="font-size:30px"></b></td>
     <td><b style="font-size:30px"></b></td>
