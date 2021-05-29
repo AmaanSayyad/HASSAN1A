@@ -142,7 +142,7 @@ What I ❤️ doing:
  </tr>
  <tr>
     <td><a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN1A&theme=tokyonight&hide_langs_below=0" />
 </a></td>
     <td> ✨ Spotify Playing 🎧
 
