@@ -59,7 +59,17 @@ I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,
 [![Twitter Follow](https://img.shields.io/twitter/follow/okothhassanjuma?style=social)](https://twitter.com/intent/follow?screen_name=okothhassanjuma) [![GitHub followers](https://img.shields.io/github/followers/HASSAN1A?label=Follow&style=social)](https://github.com/HASSAN1A/?tab=follow)
 
 </div>
-<h3 align="center">📌 Looking for a new challenge </h3>
+<h3 align="center">📌 Looking for a new challenge 
+<p><a href="https://standardjs.com">
+    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
+      alt="Standard" />
+  </a></p>
+</h3>
+
+  
+  <!-- Standard -->
+  
+
 
 <div>
 
@@ -187,18 +197,69 @@ What I ❤️ doing:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/hassan-juma-b0a530101/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
+
+
+
+
+
+
+
+
+
+
 ## Support
 
-<H1>
-<a href="https://www.paypal.me/hassanj">
-  <img width="40" hspace="0" alt="paypal.me/camshassan" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
-Buy me a 🍺 </a>
+<h6>
+<a href="https://www.buymeacoffee.com/hassanjuma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 135px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
 
-<div class="footer-copyright text-center py-3" align="center">
-      <p style="color: white">
-        © 2021
-                <a href="https://hassan1a.github.io/HassanJuma/" target="_blank"
-          >Hassan Juma&#8482;</a
-        >
-      </p>
-    </div>
+
+
+<a href="https://www.patreon.com/user/creators?u=56356072">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="135">
+</a>
+<h3>
+
+<a href="https://www.paypal.me/hassanj">
+  <img width="35" hspace="0" alt="paypal.me/camshassan" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
+Buy me a 🍺 </a>
+</h3>
+
+## License
+
+MIT
+
+---
+
+> [Hassan Juma](https://hassan1a.github.io/HassanJuma/) &nbsp;&middot;&nbsp;
+> GitHub [HASSAN1A](https://github.com/HASSAN1A) &nbsp;&middot;&nbsp;
+> Twitter [@okothhassanjuma](https://twitter.com/okothhassanjuma)
+
+
+---
+
+<!--
+[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
+[![Build Status](https://travis-ci.org/athityakumar/colorls.svg?branch=master)](https://travis-ci.org/athityakumar/colorls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+
+[![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
+[![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+
+
+
+
+  <!-- Stability -->
+  <!-- <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
+    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
+      alt="API stability" />
+  </a>
+  
+  <!-- Build Status -->
+
+  <!-- Test Coverage -->
+  <!-- <a href="https://codecov.io/github/choojs/choo">
+    <img src="https://img.shields.io/codecov/c/github/choojs/choo/master.svg?style=flat-square"
+      alt="Test Coverage" />
+  </a>
+  <!-- Downloads -->
