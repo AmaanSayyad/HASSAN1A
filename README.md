@@ -221,7 +221,7 @@ What I ❤️ doing:
 
 <a href="https://www.paypal.me/hassanj">
   <img width="35" hspace="0" alt="paypal.me/camshassan" src="https://how2db.com/wp-content/uploads/2017/04/PayPal-ME-300x300.jpg.png"/>
-Buy me a 🍺 </a>
+Buy me a Something  special.</a>
 </h3>
 
 ## License
